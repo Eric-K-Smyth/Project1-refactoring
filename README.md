@@ -1,5 +1,6 @@
 https://eric-k-smyth.github.io/Project1-refactoring/
-![image](https://github.com/Eric-K-Smyth/Project1-refactoring/assets/130538145/f615428a-3afc-42a0-9a91-890ef33bdf43)
+![eric-k-smyth github io_Project1-refactoring_](https://github.com/Eric-K-Smyth/Project1-refactoring/assets/130538145/4505b9a1-d7dc-4996-9208-944e252d0b84)
+
 
 # Horiseon Refactoring
 
